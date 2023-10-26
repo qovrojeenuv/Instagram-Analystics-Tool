@@ -1,7 +1,6 @@
 💹 Instagram Report Bot by Trix7R1X 💹
 
-![professional](https://github.com/qovrojeenuv/Instagram-Analystics-Tool/assets/149007642/9b9ea347-f442-46c2-90cd-5c5182429d44)
-
+![1c3862da3b4e01526d90808d11a57938](https://github.com/qovrojeenuv/Instagram-Analystics-Tool/assets/149007642/db6b207c-e1b3-4754-a5ec-8fdb726b0b7d)
 
 ➡️ Telegram Bot: https://t.me/Trix7R1X_Bot <br>
 ✅ Telegram Channel: https://t.me/Trix7R1Xchannel <br>
